@@ -73,7 +73,7 @@ export default function Basic() {
                             </div>
                             <div style={{ width: "80px" }}>
                               <MDBTypography tag="h5" className="mb-0">
-                                $900
+                                R19 000
                               </MDBTypography>
                             </div>
                             <a href="#!" style={{ color: "#cecece" }}>
@@ -109,7 +109,7 @@ export default function Basic() {
                             </div>
                             <div style={{ width: "80px" }}>
                               <MDBTypography tag="h5" className="mb-0">
-                                $900
+                                R14 500
                               </MDBTypography>
                             </div>
                             <a href="#!" style={{ color: "#cecece" }}>
@@ -145,7 +145,7 @@ export default function Basic() {
                             </div>
                             <div style={{ width: "80px" }}>
                               <MDBTypography tag="h5" className="mb-0">
-                                $1199
+                                R11 199
                               </MDBTypography>
                             </div>
                             <a href="#!" style={{ color: "#cecece" }}>
@@ -181,7 +181,7 @@ export default function Basic() {
                             </div>
                             <div style={{ width: "80px" }}>
                               <MDBTypography tag="h5" className="mb-0">
-                                $1799
+                                R 31 799
                               </MDBTypography>
                             </div>
                             <a href="#!" style={{ color: "#cecece" }}>
@@ -241,22 +241,22 @@ export default function Basic() {
 
                         <div className="d-flex justify-content-between">
                           <p className="mb-2">Subtotal</p>
-                          <p className="mb-2">$4798.00</p>
+                          <p className="mb-2">R 76 498.00</p>
                         </div>
 
                         <div className="d-flex justify-content-between">
                           <p className="mb-2">Shipping</p>
-                          <p className="mb-2">$20.00</p>
+                          <p className="mb-2">R120.00</p>
                         </div>
 
                         <div className="d-flex justify-content-between">
                           <p className="mb-2">Total(Incl. taxes)</p>
-                          <p className="mb-2">$4818.00</p>
+                          <p className="mb-2">R 76 618.00</p>
                         </div>
 
                         <MDBBtn color="info" block size="lg">
                           <div className="d-flex justify-content-between">
-                            <span>$4818.00</span>
+                            <span>R 76 618.00</span>
                             <span>
                               Checkout{" "}
                               <i className="fas fa-long-arrow-alt-right ms-2"></i>
