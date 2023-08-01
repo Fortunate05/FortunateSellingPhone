@@ -200,7 +200,7 @@ export default function Basic() {
                           <MDBTypography tag="h5" className="mb-0">
                             Card details
                           </MDBTypography>
-                          <MDBCardImage src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-6.webp"
+                          <MDBCardImage src="https://media.istockphoto.com/id/1403709099/photo/african-teenage.webp?b=1&s=170667a&w=0&k=20&c=b4ux5ZbPJFsSjo0b2-4PSXCuV5SdwuA6AQtI-mCUKoo="
                             fluid className="rounded-3" style={{ width: "45px" }} alt="Avatar" />
                         </div>
 
